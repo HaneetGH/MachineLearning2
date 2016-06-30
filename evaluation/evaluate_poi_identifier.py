@@ -11,7 +11,6 @@
     Start by loading/formatting the data...
 """
 
-
 import pickle
 import sys
 sys.path.append("../tools/")
